@@ -1,10 +1,17 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤi know that you mean so well,
+<p align="center">
+“ i know that you mean so well , ”
 
 <p align="center">
 <img width="500" height="370" alt="04f718a4b7b8088453719cdad1d231a2" src="https://github.com/user-attachments/assets/dfd12ecc-6d1b-4fe7-ad30-6878a5970c06" />
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[main rentry](https://rentry.co/westeast)ㅤ𓈒ㅤ[shared rentry](https://rentry.co/psistillhateyou)ㅤ𓈒ㅤ[pronouns.cc](https://pronouns.cc/@kudoshinichi)
+<p align="center">
+  <a href="https://rentry.co/westeast">main rentry</a>ㅤ𓈒ㅤ
+  <a href="https://rentry.co/psistillhateyou">shared rentry</a>ㅤ𓈒ㅤ<a href="https://pronouns.cc/@kudoshinichi">pronouns.cc</a>
+</p>
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[ponytown info](https://rentry.co/blownupcave)ㅤㅤㅤㅤ𓈒🌻𓈒ㅤㅤㅤㅤㅤ[atabook](https://nightwing.atabook.org/)
+<p align="center">
+  <a href="https://rentry.co/blownupcave">ponytown info</a>ㅤㅤㅤㅤ 𓈒🌻𓈒ㅤㅤㅤㅤㅤ<a href="https://nightwing.atabook.org/">atabook</a>
+</p>
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤbut i am not a vessel for your good intent.
+<p align="center">
+“ but i am not a vessel for your good intent . ”
