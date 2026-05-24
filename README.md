@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <a href="https://rentry.co/blownupcave">ponytown info</a>ㅤㅤㅤㅤ 𓈒🌻𓈒ㅤㅤㅤㅤㅤ<a href="https://kudoshinichi.atabook.org/">atabook</a>
+  <a href="https://rentry.co/feelnormal">ponytown info</a>ㅤㅤㅤㅤ 𓈒🌻𓈒ㅤㅤㅤㅤㅤ<a href="https://kudoshinichi.atabook.org/">atabook</a>
 </p>
