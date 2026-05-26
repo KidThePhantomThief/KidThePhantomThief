@@ -1,5 +1,14 @@
 <p align="center">
-<img width="500" height="370" alt="04f718a4b7b8088453719cdad1d231a2" src="https://github.com/user-attachments/assets/dfd12ecc-6d1b-4fe7-ad30-6878a5970c06" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mfo3njuvcgopo6cuycjxcc2k3y&cover_image=false&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false">
+  <img width="72" height="80" alt="Untitled37-20260526122340" src="https://github.com/user-attachments/assets/d9574836-db63-4430-83fd-f94405211711" />
+  </a>
+</p>
+
+
+<p align="center">
+<img width="480" height="520" alt="2ac31c7257d890db12218c4e98df81ff" src="https://github.com/user-attachments/assets/ed3ed0b4-a6f4-4192-bd3e-3c4e4fd79ef3" />
+
 
 <p align="center">
   <a href="https://rentry.co/apoptoxin">main rentry</a>ㅤ𓈒ㅤ
@@ -7,5 +16,5 @@
 </p>
 
 <p align="center">
-  <a href="https://rentry.co/feelnormal">ponytown info</a>ㅤㅤㅤㅤ 𓈒🌻𓈒ㅤㅤㅤㅤㅤ<a href="https://kudoshinichi.atabook.org/">atabook</a>
+  <a href="https://rentry.co/feelnormal">ponytown info</a>ㅤㅤㅤㅤ𓈒🐻‍❄️𓈒ㅤㅤㅤㅤㅤ<a href="https://kudoshinichi.atabook.org/">atabook</a>
 </p>
