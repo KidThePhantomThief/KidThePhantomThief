@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <a href="https://rentry.co/apoptoxin">main rentry</a>ㅤ𓈒ㅤ
+  <a href="https://rentry.co/trumpgun">rentry</a>ㅤ𓈒ㅤ
   <a href="https://rentry.co/psistillhateyou">shared rentry</a>ㅤ𓈒ㅤ<a href="https://rentry.co/doubledatequadro">shared rentry 2</a>
 </p>
 
