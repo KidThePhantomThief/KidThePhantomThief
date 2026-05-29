@@ -11,10 +11,5 @@
 
 
 <p align="center">
-  <a href="https://rentry.co/trumpgun">rentry</a>ㅤ𓈒ㅤ
-  <a href="https://rentry.co/psistillhateyou">shared rentry</a>ㅤ𓈒ㅤ<a href="https://rentry.co/doubledatequadro">shared rentry 2</a>
-</p>
-
-<p align="center">
-  <a href="https://pronouns.cc/@kudoshinichi">pronouns.cc</a>ㅤ𓈒ㅤ<a href="https://rentry.co/feelnormal">ponytown info</a>ㅤ𓈒ㅤ<a href="https://kudoshinichi.atabook.org/">atabook</a>
+  <a href="https://guns.lol/heiseilupin">guns.lol</a>ㅤ𓈒ㅤ<a href="https://rentry.co/feelnormal">ponytown info</a>ㅤ𓈒ㅤ<a href="https://kudoshinichi.atabook.org/">atabook</a>
 </p>
